@@ -10,6 +10,10 @@ This repository contains a website that generates random vocabulary words on eve
 
 ## Usage
 
+You can access the website [here](https://5hafayet.github.io/vocabulary_shuffle/).
+
+or
+
 1. Clone the repository:
 
    ```shell
