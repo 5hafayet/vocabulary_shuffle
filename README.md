@@ -27,5 +27,3 @@ Contributions are welcome! If you have any ideas, suggestions, or bug reports, p
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-This format follows the GitHub Markdown syntax and is ready to be copied and used in your GitHub repository's README.md file.
