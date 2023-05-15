@@ -13,7 +13,7 @@ This repository contains a website that generates random vocabulary words on eve
 1. Clone the repository:
 
    ```shell
-   git clone <repository-url>
+   git clone https://github.com/5hafayet/vocabulary_shuffle.git
    ```
 
 2. Open the `index.html` file in a web browser.
@@ -22,7 +22,7 @@ This repository contains a website that generates random vocabulary words on eve
 
 ## Contributing
 
-Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](../../issues) or submit a [pull request](../../pulls).
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please [open an issue](https://github.com/5hafayet/vocabulary_shuffle/issues) or submit a [pull request](https://github.com/5hafayet/vocabulary_shuffle/pulls).
 
 ## License
 
