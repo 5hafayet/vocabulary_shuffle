@@ -4,9 +4,9 @@ This repository contains a website that generates random vocabulary words on eve
 
 ## Features
 
-- Generates random vocabulary words
-- Provides definitions and use cases for each word
-- Supports refreshing to get a new random word
+- Generates random vocabulary words.
+- Provides definitions and use cases for each word.
+- Supports refreshing to get a new random word.
 
 ## Usage
 
