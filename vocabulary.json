@@ -1,0 +1,1814 @@
+[
+  {
+    "word": "Abate",
+    "definition": "v. to become less active, less intense, or less in amount",
+    "usecase": "As I began my speech, my feelings of nervousness quickly abated.",
+    "id": 1
+  },
+  {
+    "word": "Abstract",
+    "definition": "adj. existing purely in the mind; not representing actual reality",
+    "usecase": "Julie had trouble understanding the appeal of the abstract painting.",
+    "id": 2
+  },
+  {
+    "word": "Abysmal",
+    "definition": "adj. extremely bad",
+    "usecase": "I got an abysmal grade on my research paper!",
+    "id": 3
+  },
+  {
+    "word": "Accordingly",
+    "definition": "adv. in accordance with",
+    "usecase": "All students must behave accordingly.",
+    "id": 4
+  },
+  {
+    "word": "Acquisition",
+    "definition": "n. the act of gaining a skill or possession of something",
+    "usecase": "Language acquisition is easier for kids than it is for adults.",
+    "id": 5
+  },
+  {
+    "word": "Adapt",
+    "definition": "v. to make suit a new purpose",
+    "usecase": "The US has adapted many foreign foods to better suit the tastes of Americans.",
+    "id": 6
+  },
+  {
+    "word": "",
+    "definition": "v. to accommodate oneself to a new condition, setting, or situation",
+    "usecase": "Dogs are known for their ability to quickly adapt to their environments.",
+    "id": 7
+  },
+  {
+    "word": "Adept",
+    "definition": "adj. having knowledge or skill (usu. in a particular area)",
+    "usecase": "Beth loves playing the piano, but she’s especially adept at the violin.",
+    "id": 8
+  },
+  {
+    "word": "Adequate",
+    "definition": "adj. having sufficient qualifications to meet a specific task or purpose",
+    "usecase": "Though his resume was adequate, the company doubted whether he’d be a good fit.",
+    "id": 9
+  },
+  {
+    "word": "Advent",
+    "definition": "n. the arrival or creation of something (usu. historic)",
+    "usecase": "The world has never been the same since the advent of the light bulb.",
+    "id": 10
+  },
+  {
+    "word": "Adversarial",
+    "definition": "adj. relating to hostile opposition",
+    "usecase": "An adversarial attitude will make you many enemies in life.",
+    "id": 11
+  },
+  {
+    "word": "Advocate",
+    "definition": "n. someone who promotes or defends something",
+    "usecase": "I am an advocate for free higher education.",
+    "id": 12
+  },
+  {
+    "word": "",
+    "definition": "v. to defend or promote something (usu. a belief, theory, opinion, etc.)",
+    "usecase": "Environmental protesters often advocate for cleaner energy practices.",
+    "id": 13
+  },
+  {
+    "word": "Aesthetic",
+    "definition": "adj. relating to beauty or refined taste",
+    "usecase": "The aesthetic decorations at the wedding reception made you feel as if you were a character in a fairy tale.",
+    "id": 14
+  },
+  {
+    "word": "Afford",
+    "definition": "v. to be able to buy",
+    "usecase": "He’s saving money so he can afford to buy a new car.",
+    "id": 15
+  },
+  {
+    "word": "",
+    "definition": "v. to be able to spare",
+    "usecase": "I can’t afford to lose any more pencils!",
+    "id": 16
+  },
+  {
+    "word": "Agitate",
+    "definition": "v. to promote something (usu. a cause)",
+    "usecase": "They’re agitating for better health care.",
+    "id": 17
+  },
+  {
+    "word": "Allow",
+    "definition": "v. to permit or consent to",
+    "usecase": "US law allows citizens to speak freely.",
+    "id": 18
+  },
+  {
+    "word": "Allude",
+    "definition": "v. to make a secretive mention of something",
+    "usecase": "She alluded to the problem at hand but didn’t say anything more about it.",
+    "id": 19
+  },
+  {
+    "word": "Altercation",
+    "definition": "n. a noisy argument or confrontation",
+    "usecase": "Greg got into an altercation with a stranger at the bar.",
+    "id": 20
+  },
+  {
+    "word": "Ambiguous",
+    "definition": "adj. unclear or vague in meaning",
+    "usecase": "Her ambiguous statement made me question whether she could be trusted.",
+    "id": 21
+  },
+  {
+    "word": "Ambitious",
+    "definition": "adj. having a powerful desire for success or achievement",
+    "usecase": "Penny is so ambitious, she wants to be president someday.",
+    "id": 22
+  },
+  {
+    "word": "Ambivalence",
+    "definition": "n. the state of being uncertain or stuck between two or more options",
+    "usecase": "His ambivalence prevented him from immediately signing the contract.",
+    "id": 23
+  },
+  {
+    "word": "Analogous",
+    "definition": "adj. similar but not identical",
+    "usecase": "Green onions are considered analogous to spring onions.",
+    "id": 24
+  },
+  {
+    "word": "Annihilate",
+    "definition": "v. to destroy or cause devastating destruction",
+    "usecase": "The dictator sent orders to annihilate the group of rebels.",
+    "id": 25
+  },
+  {
+    "word": "Anomaly",
+    "definition": "n. something different from the norm",
+    "usecase": "This result is an anomaly and very rarely happens.",
+    "id": 26
+  },
+  {
+    "word": "Anticipate",
+    "definition": "v. assume to be likely to happen",
+    "usecase": "The party was just as fun as I had anticipated it would be.",
+    "id": 27
+  },
+  {
+    "word": "Antipathy",
+    "definition": "n. a strong feeling of dislike",
+    "usecase": "Her antipathy toward the professor was obvious: she rolled her eyes whenever he entered the classroom.",
+    "id": 28
+  },
+  {
+    "word": "Apex",
+    "definition": "n. the highest point of something",
+    "usecase": "The spring play was the apex of our school year.",
+    "id": 29
+  },
+  {
+    "word": "Apprehension",
+    "definition": "n. fearful expectation of something",
+    "usecase": "Her apprehension to leave her house resulted in her missing the train.",
+    "id": 30
+  },
+  {
+    "word": "Articulate",
+    "definition": "v. to clearly express in words",
+    "usecase": "She articulated her opinion on the price of the house.",
+    "id": 31
+  },
+  {
+    "word": "Artificial",
+    "definition": "adj. something made; not occurring naturally",
+    "usecase": "Many candies use artificial flavors to make them taste fruity.",
+    "id": 32
+  },
+  {
+    "word": "Assertion",
+    "definition": "n. a strong declaration",
+    "usecase": "His assertion that sharks are mammals made everyone laugh.",
+    "id": 33
+  },
+  {
+    "word": "Austere",
+    "definition": "adj. extremely plain",
+    "usecase": "He lived in a small, austere cabin in the middle of the woods.",
+    "id": 34
+  },
+  {
+    "word": "",
+    "definition": "adj. stern and forbidding",
+    "usecase": "My boss had an austere expression on her face.",
+    "id": 35
+  },
+  {
+    "word": "",
+    "definition": "adj. relating to self-denial",
+    "usecase": "An austere lifestyle, like that of monks, isn’t for everybody.",
+    "id": 36
+  },
+  {
+    "word": "Authenticity",
+    "definition": "n. the quality of being real and true instead of fake and contrived",
+    "usecase": "The police officer doubted the authenticity of the suspect’s story.",
+    "id": 37
+  },
+  {
+    "word": "Avenue",
+    "definition": "n. an intangible path or approach to something",
+    "usecase": "The company has decided to pursue other avenues.",
+    "id": 38
+  },
+  {
+    "word": "Avid",
+    "definition": "adj. actively interested in or enthusiastic about something",
+    "usecase": "Gerald is an avid soccer fan.",
+    "id": 39
+  },
+  {
+    "word": "Basic",
+    "definition": "adj. relating to the foundation or basis of something",
+    "usecase": "You have to start with basic Russian before you can move on to the advanced level.",
+    "id": 40
+  },
+  {
+    "word": "Bear",
+    "definition": "v. to have as a characteristic",
+    "usecase": "She bears a strong resemblance to your mother.",
+    "id": 41
+  },
+  {
+    "word": "",
+    "definition": "v. to have (a child)",
+    "usecase": "Judy will bear her first child later this year.",
+    "id": 42
+  },
+  {
+    "word": "",
+    "definition": "v. to bring forth",
+    "usecase": "My garden is going to bear pumpkins this year.",
+    "id": 43
+  },
+  {
+    "word": "",
+    "definition": "v. to put up with",
+    "usecase": "I can’t bear her complaining any longer!",
+    "id": 44
+  },
+  {
+    "word": "Benevolent",
+    "definition": "adj. kind, generous",
+    "usecase": "Many cultures believe in benevolent spirits.",
+    "id": 45
+  },
+  {
+    "word": "Bias",
+    "definition": "n. a preconception that prevents objectivity",
+    "usecase": "It’s important to avoid bias when investigating a crime.",
+    "id": 46
+  },
+  {
+    "word": "Bittersweet",
+    "definition": "adj. tinged with a feeling of sadness",
+    "usecase": "The ending of the romance movie was bittersweet.",
+    "id": 47
+  },
+  {
+    "word": "Bolster",
+    "definition": "v. to support, strengthen, or fortify",
+    "usecase": "If we work together, we should be able to lift and then bolster the couch.",
+    "id": 48
+  },
+  {
+    "word": "Boost",
+    "definition": "n. an increase or growth",
+    "usecase": "The boost in profits was a welcome change.",
+    "id": 49
+  },
+  {
+    "word": "",
+    "definition": "v. to increase or make grow",
+    "usecase": "In order to boost profits, you need to cater to your customers.",
+    "id": 50
+  },
+  {
+    "word": "Brawl",
+    "definition": "n. an intense, loud fight",
+    "usecase": "A brawl broke out at school today after one student accused another of cheating.",
+    "id": 51
+  },
+  {
+    "word": "",
+    "definition": "v. to fight loudly and disruptively",
+    "usecase": "The two students brawled for an hour.",
+    "id": 52
+  },
+  {
+    "word": "Brevity",
+    "definition": "n. the quality of being brief or terse",
+    "usecase": "The brevity of their time together made it all the more romantic.",
+    "id": 53
+  },
+  {
+    "word": "Candid",
+    "definition": "adj. direct, blunt",
+    "usecase": "Josh is candid about his desire to become an actor.",
+    "id": 54
+  },
+  {
+    "word": "Candor",
+    "definition": "n. the trait of being honest and frank",
+    "usecase": "I admire her candor, especially when nobody else bothers to speak up.",
+    "id": 55
+  },
+  {
+    "word": "Capitalize",
+    "definition": "v. to use to your advantage",
+    "usecase": "I’d like to capitalize on your math skills by having your work the cash register.",
+    "id": 56
+  },
+  {
+    "word": "Capture",
+    "definition": "v. to trap or take possession of",
+    "usecase": "The spy was captured by the enemy.",
+    "id": 57
+  },
+  {
+    "word": "",
+    "definition": "v. to successfully represent or imitate",
+    "usecase": "Your painting beautifully captures the ephemerality of life.",
+    "id": 58
+  },
+  {
+    "word": "",
+    "definition": "v. to captivate, mesmerize",
+    "usecase": "I was captured by her beauty.",
+    "id": 59
+  },
+  {
+    "word": "",
+    "definition": "v. to catch or seize",
+    "usecase": "The cops captured the criminal three days after the incident.",
+    "id": 60
+  },
+  {
+    "word": "Civic",
+    "definition": "adj. relating to the city or citizens",
+    "usecase": "Voting is a civic duty.",
+    "id": 61
+  },
+  {
+    "word": "Clinical",
+    "definition": "adj. emotionally unattached (usu. used in medical or scientific setting)",
+    "usecase": "Her clinical approach to situations allows her to handle them more effectively.",
+    "id": 62
+  },
+  {
+    "word": "Clout",
+    "definition": "n. special advantage or power",
+    "usecase": "Children of rich and famous people often believe they have a lot of clout.",
+    "id": 63
+  },
+  {
+    "word": "Coarse",
+    "definition": "adj. indicating a rough texture",
+    "usecase": "The horse’s mane was coarse, as if it had never been washed.",
+    "id": 64
+  },
+  {
+    "word": "",
+    "definition": "adj. lacking refinement or sophistication",
+    "usecase": "The queen’s coarse way of speaking surprised the other members of royalty.",
+    "id": 65
+  },
+  {
+    "word": "Coincide",
+    "definition": "v. to happen at the same time",
+    "usecase": "It wasn’t until after I booked my ticket that I realized the concert coincided with my finals.",
+    "id": 66
+  },
+  {
+    "word": "Commission",
+    "definition": "n. the use of payment to request something (e.g., a service or product)",
+    "usecase": "This painting was commissioned by a rich merchant in 1589.",
+    "id": 67
+  },
+  {
+    "word": "Comparable",
+    "definition": "adj. able to be compared",
+    "usecase": "This novel is comparable to Huckleberry Finn.",
+    "id": 68
+  },
+  {
+    "word": "Competent",
+    "definition": "adj. sufficiently qualified",
+    "usecase": "We need to hire a competent web developer to create a good website for our company.",
+    "id": 69
+  },
+  {
+    "word": "Complacent",
+    "definition": "adj. satisfied, with no desire to change or improve",
+    "usecase": "Though he had never won any awards or even been published, he was complacent with his life as a poet.",
+    "id": 70
+  },
+  {
+    "word": "Complement",
+    "definition": "v. to make perfect or complete",
+    "usecase": "This wine perfectly complements this platter of gourmet cheese.",
+    "id": 71
+  },
+  {
+    "word": "Concede",
+    "definition": "v. to be forced to agree or surrender",
+    "usecase": "With no chance of winning the battle, the army at last conceded.",
+    "id": 72
+  },
+  {
+    "word": "",
+    "definition": "v. to admit to a transgression",
+    "usecase": "Dan conceded to pranking his sister.",
+    "id": 73
+  },
+  {
+    "word": "Conceive",
+    "definition": "v. to imagine or come up with",
+    "usecase": "The plan to build the city was originally conceived in the early 1900s.",
+    "id": 74
+  },
+  {
+    "word": "Condone",
+    "definition": "v. to overlook, approve, or allow",
+    "usecase": "She couldn't condone her daughter's rebellious behavior.",
+    "id": 75
+  },
+  {
+    "word": "Conducive",
+    "definition": "adj. able to bring about or be suitable for",
+    "usecase": "The noisy students hardly made the campus library conducive to studying.",
+    "id": 76
+  },
+  {
+    "word": "Conduct",
+    "definition": "v. to control or manage",
+    "usecase": "The group conducted their research abroad last year.",
+    "id": 77
+  },
+  {
+    "word": "",
+    "definition": "v. to behave a certain way",
+    "usecase": "Be sure to conduct yourself accordingly.",
+    "id": 78
+  },
+  {
+    "word": "Confide",
+    "definition": "v. to share something secretive with someone",
+    "usecase": "She confided all of her biggest secrets in her best friend.",
+    "id": 79
+  },
+  {
+    "word": "Confine",
+    "definition": "v. to put limits on; to restrict",
+    "usecase": "We are going to confine the use of this drinking fountain.",
+    "id": 80
+  },
+  {
+    "word": "Consensus",
+    "definition": "n. overall agreement",
+    "usecase": "After weeks of debating, the panel finally came to a consensus.",
+    "id": 81
+  },
+  {
+    "word": "Constitute",
+    "definition": "v. to form or compose (part of) something",
+    "usecase": "The desire for equality constituted the civil rights movement.",
+    "id": 82
+  },
+  {
+    "word": "Contemplate",
+    "definition": "v. to think deeply about",
+    "usecase": "She contemplated telling her teacher about the cheating student.",
+    "id": 83
+  },
+  {
+    "word": "Contend",
+    "definition": "v. to maintain or assert (an opinion)",
+    "usecase": "The president contends that the US government will not negotiate with terrorists.",
+    "id": 84
+  },
+  {
+    "word": "Contradict",
+    "definition": "v. to be in contrast with",
+    "usecase": "The camera footage contradicts his alibi.",
+    "id": 85
+  },
+  {
+    "word": "Controversial",
+    "definition": "adj. highly debatable and causing contention",
+    "usecase": "Millions of viewers watched the controversial debate take place.",
+    "id": 86
+  },
+  {
+    "word": "Conventional",
+    "definition": "adj. abiding by accepted standards",
+    "usecase": "She lives a conventional life in the suburbs.",
+    "id": 87
+  },
+  {
+    "word": "Convey",
+    "definition": "v. to pass on or transfer (information)",
+    "usecase": "I have trouble conveying my thoughts in French.",
+    "id": 88
+  },
+  {
+    "word": "Conviction",
+    "definition": "n. a firm belief in something",
+    "usecase": "Her religious convictions prevent her from eating meat.",
+    "id": 89
+  },
+  {
+    "word": "Corroborate",
+    "definition": "v. to provide evidence for; to back up (a claim)",
+    "usecase": "The note signed by her father corroborates her claim that she was absent from class that day.",
+    "id": 90
+  },
+  {
+    "word": "Counteract",
+    "definition": "v. to work in opposition to",
+    "usecase": "This ingredient seems to counteract the other ones.",
+    "id": 91
+  },
+  {
+    "word": "Counterargument",
+    "definition": "n. an argument used to criticize or dismantle another argument",
+    "usecase": "Make sure to include a counterargument in your essay so that you can show you’ve considered the topic from all perspectives.",
+    "id": 92
+  },
+  {
+    "word": "Counterproductive",
+    "definition": "adj. hindering the achievement of a goal",
+    "usecase": "Bill’s idea to take a shortcut was ultimately counterproductive: it took us twice as long to get to the train station.",
+    "id": 93
+  },
+  {
+    "word": "Culmination",
+    "definition": "n. the final act or climax",
+    "usecase": "The culmination of the performance was unforgettable.",
+    "id": 94
+  },
+  {
+    "word": "Cultivate",
+    "definition": "v. to foster the growth of",
+    "usecase": "Teachers don’t just pass on new information to students—they cultivate their academic potential.",
+    "id": 95
+  },
+  {
+    "word": "Decree",
+    "definition": "v. to declare formally and with authority",
+    "usecase": "The president decreed that Halloween would henceforth be a national holiday.",
+    "id": 96
+  },
+  {
+    "word": "Deference",
+    "definition": "n. respect; regard",
+    "usecase": "Her deference to the elderly makes her the perfect candidate for an internship at the retirement center.",
+    "id": 97
+  },
+  {
+    "word": "Deficient",
+    "definition": "adj. not enough in degree or amount",
+    "usecase": "I feel as though the sources for my paper are deficient.",
+    "id": 98
+  },
+  {
+    "word": "Demonstrate",
+    "definition": "v. to do as an example",
+    "usecase": "Could you demonstrate the dance move for me?",
+    "id": 99
+  },
+  {
+    "word": "",
+    "definition": "v. gives evidence for",
+    "usecase": "This book’s use of words such as “grim” and “bleak” demonstrates the author’s mournful tone.",
+    "id": 100
+  },
+  {
+    "word": "Demur",
+    "definition": "v. to object to",
+    "usecase": "She demurred at my request to transfer to a different department.",
+    "id": 101
+  },
+  {
+    "word": "Deplete",
+    "definition": "v. to (over)use over time (usu. resources)",
+    "usecase": "The lost campers quickly depleted their supply of food.",
+    "id": 102
+  },
+  {
+    "word": "Desolate",
+    "definition": "adj. bare, barren, empty",
+    "usecase": "The moon is one giant, desolate landscape.",
+    "id": 103
+  },
+  {
+    "word": "Devise",
+    "definition": "v. to come up with (a plan)",
+    "usecase": "Lana devised a plan to make herself famous.",
+    "id": 104
+  },
+  {
+    "word": "Dilemma",
+    "definition": "n. a problem, usually requiring a choice between two options",
+    "usecase": "The main dilemma is whether to pay for a commercial or not.",
+    "id": 105
+  },
+  {
+    "word": "Diligence",
+    "definition": "n. conscientiousness; the quality of being committed to a task",
+    "usecase": "Diligence and confidence will get you far in life.",
+    "id": 106
+  },
+  {
+    "word": "Diminish",
+    "definition": "v. to become smaller in scope or degree",
+    "usecase": "The itchiness of mosquito bites usually starts to diminish after a few days.",
+    "id": 107
+  },
+  {
+    "word": "Dire",
+    "definition": "adj. hopeless and dangerous or fearful",
+    "usecase": "When the police didn’t explain what was happening right away, Jane knew that the situation must be dire.",
+    "id": 108
+  },
+  {
+    "word": "Discord",
+    "definition": "n. disagreement",
+    "usecase": "Disputes over money caused intense discord in the family.",
+    "id": 109
+  },
+  {
+    "word": "Disdain",
+    "definition": "n. a lack of respect and strong dislike (toward something or someone)",
+    "usecase": "He looked at me with such disdain that I immediately knew the job wouldn’t work out.",
+    "id": 110
+  },
+  {
+    "word": "Dismay",
+    "definition": "n. hopelessness, stress, or consternation",
+    "usecase": "To Nick’s dismay, he got an F on the test.",
+    "id": 111
+  },
+  {
+    "word": "",
+    "definition": "v. to fill with woe or apprehension",
+    "usecase": "Many were dismayed by the town’s implementation of metered parking.",
+    "id": 112
+  },
+  {
+    "word": "Disparage",
+    "definition": "v. to belittle or speak down to",
+    "usecase": "A good boss is stern but never disparages his or her employees.",
+    "id": 113
+  },
+  {
+    "word": "Dispatch",
+    "definition": "v. to send off a message or messenger",
+    "usecase": "The mother dispatched her daughter to their neighbor’s house.",
+    "id": 114
+  },
+  {
+    "word": "Diversification",
+    "definition": "n. the act of becoming diverse",
+    "usecase": "Lately, there’s been noticeable diversification of students at higher institutions.",
+    "id": 115
+  },
+  {
+    "word": "Doctrine",
+    "definition": "n. a principle, theory, or position, usu. advocated by a religion or gov’t",
+    "usecase": "Devoutly religious people often live their lives according to their doctrines.",
+    "id": 116
+  },
+  {
+    "word": "Dominion",
+    "definition": "n. power and authority (usu. over a territory)",
+    "usecase": "The country claimed to have dominion over parts of Russia.",
+    "id": 117
+  },
+  {
+    "word": "",
+    "definition": "n. a legal territory",
+    "usecase": "Puerto Rico is a dominion of the US.",
+    "id": 118
+  },
+  {
+    "word": "Dreary",
+    "definition": "adj. sad, gloomy, dull",
+    "usecase": "The gray clouds in the sky made the day feel dreary.",
+    "id": 119
+  },
+  {
+    "word": "Dubious",
+    "definition": "adj. doubtful, questionable",
+    "usecase": "The man’s claims to the throne were dubious since nobody knew where he’d come from.",
+    "id": 120
+  },
+  {
+    "word": "Eccentric",
+    "definition": "adj. peculiar or odd; deviating from the norm",
+    "usecase": "She’s a little eccentric but still fun to be around.",
+    "id": 121
+  },
+  {
+    "word": "Egregious",
+    "definition": "adj. extremely bad",
+    "usecase": "After cheating on the exam, Emily began to feel as though she’d made an egregious mistake.",
+    "id": 122
+  },
+  {
+    "word": "Eloquent",
+    "definition": "adj. having refined or expressive communication skills (in speaking or writing)",
+    "usecase": "His speech was not only eloquent but also extremely compelling.",
+    "id": 123
+  },
+  {
+    "word": "Eminent",
+    "definition": "adj. superior or distinguished; high in position or status",
+    "usecase": "Our town made news when the eminent magician came to perform at our local theater.",
+    "id": 124
+  },
+  {
+    "word": "Emit",
+    "definition": "v. to discharge, give forth, or release",
+    "usecase": "Plants consume carbon dioxide and emit oxygen.",
+    "id": 125
+  },
+  {
+    "word": "Emphatic",
+    "definition": "adj. very expressive; using emphasis",
+    "usecase": "Her emphatic smile told me she was excited to ride the roller coaster.",
+    "id": 126
+  },
+  {
+    "word": "Empirical",
+    "definition": "adj. derived from experience, observation, or an experiment",
+    "usecase": "You need empirical evidence to support your claim.",
+    "id": 127
+  },
+  {
+    "word": "Endow",
+    "definition": "v. to equip or bestow (usu. a quality or ability)",
+    "usecase": "According to the myth, the gods endowed him with the gift of healing.",
+    "id": 128
+  },
+  {
+    "word": "Endure",
+    "definition": "v. to withstand, sustain, or hold out against",
+    "usecase": "I can’t endure this wait any longer. Will Stanford accept or reject me?",
+    "id": 129
+  },
+  {
+    "word": "Entail",
+    "definition": "v. to involve or include",
+    "usecase": "A doctoral program entails long nights and a heavy workload.",
+    "id": 130
+  },
+  {
+    "word": "Entrenched",
+    "definition": "adj. firmly established",
+    "usecase": "Her face will forever be entrenched in my memory.",
+    "id": 131
+  },
+  {
+    "word": "Enumerate",
+    "definition": "v. to specify or count",
+    "usecase": "I can’t enumerate how many times I’ve had to remind my students when their papers are due.",
+    "id": 132
+  },
+  {
+    "word": "Envy",
+    "definition": "n. excessive jealousy",
+    "usecase": "His envy of her is quite obvious.",
+    "id": 133
+  },
+  {
+    "word": "",
+    "definition": "v. to admire and be jealous of",
+    "usecase": "She envies her coworker's social skills.",
+    "id": 134
+  },
+  {
+    "word": "Erratic",
+    "definition": "adj. having no fixed course; deviating from the norm",
+    "usecase": "The car became erratic after slipping on ice.",
+    "id": 135
+  },
+  {
+    "word": "Establish",
+    "definition": "v. to enact",
+    "usecase": "They established a law that made it illegal to drive after drinking any amount of alcohol.",
+    "id": 136
+  },
+  {
+    "word": "",
+    "definition": "v. to found (a business, group, school, etc.)",
+    "usecase": "Our group established a new branch in Chicago.",
+    "id": 137
+  },
+  {
+    "word": "Evoke",
+    "definition": "v. to draw forth or call up",
+    "usecase": "Horror movies are great at evoking fear.",
+    "id": 138
+  },
+  {
+    "word": "Exacerbate",
+    "definition": "v. to make worse or increase the severity of",
+    "usecase": "The doctor told me not to run as it can exacerbate my knee injury.",
+    "id": 139
+  },
+  {
+    "word": "Excel",
+    "definition": "v. to do something extremely well or to be superior in",
+    "usecase": "She was a well-rounded student but excelled especially in science.",
+    "id": 140
+  },
+  {
+    "word": "Exert",
+    "definition": "v. to put into use (usu. as effort)",
+    "usecase": "Don’t exert all of your energy at once.",
+    "id": 141
+  },
+  {
+    "word": "Exhilarating",
+    "definition": "adj. invigorating, stimulating, or exciting",
+    "usecase": "The music playing at the club was catchy and exhilarating.",
+    "id": 142
+  },
+  {
+    "word": "Expend",
+    "definition": "v. to use up (as in energy or money)",
+    "usecase": "Be careful not to expend all your energy in the first half of a marathon.",
+    "id": 143
+  },
+  {
+    "word": "Exploit",
+    "definition": "v. to use selfishly or for profit",
+    "usecase": "The shoddy company exploited its workers by paying them extremely low wages.",
+    "id": 144
+  },
+  {
+    "word": "Facilitate",
+    "definition": "v. to aid the progress of",
+    "usecase": "In grad school, advisors facilitate students’ research and offer constructive criticism.",
+    "id": 145
+  },
+  {
+    "word": "Feasibility",
+    "definition": "n. the practicality or possibility of something",
+    "usecase": "The feasibility of her project was doubtful; she’d have to go all the way to Antarctica and back before the school year ended.",
+    "id": 146
+  },
+  {
+    "word": "Ferocity",
+    "definition": "n. viciousness, violence",
+    "usecase": "The lion is just one wild animal known for its ferocity.",
+    "id": 147
+  },
+  {
+    "word": "Fiscal",
+    "definition": "adj. related to (government) money",
+    "usecase": "Fiscal policy is how the government uses money to influence the economy.",
+    "id": 148
+  },
+  {
+    "word": "Flourish",
+    "definition": "v. to prosper, grow, or make fast progress",
+    "usecase": "After one year, the tiny plants had flourished into a breathtaking garden.",
+    "id": 149
+  },
+  {
+    "word": "Fluctuate",
+    "definition": "v. to be unstable; to rise and fall",
+    "usecase": "Stocks can fluctuate on a daily basis, making it difficult to determine when to buy or sell one.",
+    "id": 150
+  },
+  {
+    "word": "Foment",
+    "definition": "v. to stir up",
+    "usecase": "The civilians accused their leader of fomenting political unrest.",
+    "id": 151
+  },
+  {
+    "word": "Foreseeable",
+    "definition": "adj. capable of being predicted or anticipated",
+    "usecase": "I can't imagine aliens visiting us in the foreseeable future.",
+    "id": 152
+  },
+  {
+    "word": "Frankly",
+    "definition": "adv. directly, clearly",
+    "usecase": "I frankly don’t see the point in learning to drive.",
+    "id": 153
+  },
+  {
+    "word": "Freewheeling",
+    "definition": "adj. carefree",
+    "usecase": "His freewheeling attitude often got him in trouble at work.",
+    "id": 154
+  },
+  {
+    "word": "Fundamental",
+    "definition": "adj. the most essential or most basic part",
+    "usecase": "A thesis is arguably the most fundamental part of an essay.",
+    "id": 155
+  },
+  {
+    "word": "Galvanizing",
+    "definition": "adj. thrilling, exciting, stimulating",
+    "usecase": "The galvanizing performance left everyone spellbound.",
+    "id": 156
+  },
+  {
+    "word": "Geriatric",
+    "definition": "adj. relating to old age",
+    "usecase": "I became interested in geriatric medicine shortly after my grandfather passed away from cancer.",
+    "id": 157
+  },
+  {
+    "word": "Hostile",
+    "definition": "adj. harmful, dangerous",
+    "usecase": "The voices around the corner sounded angry, hostile even.",
+    "id": 158
+  },
+  {
+    "word": "Hypothetical",
+    "definition": "adj. supposed; related to a hypothesis",
+    "usecase": "For my physics homework, I must come up with a hypothetical situation.",
+    "id": 159
+  },
+  {
+    "word": "Ignominious",
+    "definition": "adj. publicly shameful or humiliating",
+    "usecase": "The politician's expensive campaign ultimately ended in ignominious defeat.",
+    "id": 160
+  },
+  {
+    "word": "Impart",
+    "definition": "v. to transmit, bestow, or disclose",
+    "usecase": "Parents must impart common sense to their children.",
+    "id": 161
+  },
+  {
+    "word": "Impartiality",
+    "definition": "n. the equal and objective treatment of opposing views",
+    "usecase": "To ensure impartiality, we require everyone to follow these general guidelines.",
+    "id": 162
+  },
+  {
+    "word": "Imposing",
+    "definition": "adj. impressive (esp. in size or appearance)",
+    "usecase": "The old mansion was imposing in its huge size and gothic architecture.",
+    "id": 163
+  },
+  {
+    "word": "Imposition",
+    "definition": "n. an unnecessary burden",
+    "usecase": "If it’s not too much of an imposition, could you proofread my paper?",
+    "id": 164
+  },
+  {
+    "word": "Imprudent",
+    "definition": "adj. not cautious or prudent; rash",
+    "usecase": "Backpacking abroad can be fun, but don’t be imprudent about money.",
+    "id": 165
+  },
+  {
+    "word": "Incite",
+    "definition": "v. to encourage or stir up",
+    "usecase": "Her hateful words incited anger in the crowd.",
+    "id": 166
+  },
+  {
+    "word": "Indifference",
+    "definition": "n. apathy, emotional detachment",
+    "usecase": "The girl’s indifference toward her brother upset their parents.",
+    "id": 167
+  },
+  {
+    "word": "Indiscriminately",
+    "definition": "adv. randomly; with little or no distinction",
+    "usecase": "Lottery winners are chosen indiscriminately.",
+    "id": 168
+  },
+  {
+    "word": "Indulge",
+    "definition": "v. to give into; to satisfy or gratify",
+    "usecase": "My friend loves to indulge in cheesy romance movies.",
+    "id": 169
+  },
+  {
+    "word": "Infer",
+    "definition": "v. to guess, conclude, or derive by reasoning",
+    "usecase": "You can infer from this quotation that the writer didn’t care for “pretty” language.",
+    "id": 170
+  },
+  {
+    "word": "Innovative",
+    "definition": "adj. novel or new (esp. as an idea or invention)",
+    "usecase": "Her invention was incredibly innovative and won her multiple awards.",
+    "id": 171
+  },
+  {
+    "word": "Insatiable",
+    "definition": "adj. can’t be satisfied",
+    "usecase": "A vampire’s thirst for blood is said to be insatiable.",
+    "id": 172
+  },
+  {
+    "word": "Inversion",
+    "definition": "n. a reversal",
+    "usecase": "The culture’s norms were an inversion of our own.",
+    "id": 173
+  },
+  {
+    "word": "Invoke",
+    "definition": "v. to call on; to appeal to (e.g., a higher power)",
+    "usecase": "The shaman attempted to invoke a demon.",
+    "id": 174
+  },
+  {
+    "word": "Irreconcilable",
+    "definition": "adj. incapable of being in harmony or agreed upon",
+    "usecase": "The couple’s differences were ultimately irreconcilable, giving them no choice but to break up.",
+    "id": 175
+  },
+  {
+    "word": "Lament",
+    "definition": "v. to feel sorrow for; to mourn",
+    "usecase": "Susan lamented her missed chance at going to Europe with her high school class.",
+    "id": 176
+  },
+  {
+    "word": "Locomotion",
+    "definition": "n. movement",
+    "usecase": "Physics involves the study of locomotion.",
+    "id": 177
+  },
+  {
+    "word": "Lucrative",
+    "definition": "adj. capable of making a lot of money; profitable",
+    "usecase": "Writing books isn’t a particularly lucrative career, unless you’re J.K. Rowling.",
+    "id": 178
+  },
+  {
+    "word": "Malicious",
+    "definition": "adj. harmful, spiteful",
+    "usecase": "The malicious spirit drove out the inhabitants from their home.",
+    "id": 179
+  },
+  {
+    "word": "Malleable",
+    "definition": "adj. capable of being molded or changed",
+    "usecase": "Children’s minds are malleable but only for so long.",
+    "id": 180
+  },
+  {
+    "word": "Materialistic",
+    "definition": "adj. superficial; focus on material possessions",
+    "usecase": "Many people accuse Americans of being materialistic.",
+    "id": 181
+  },
+  {
+    "word": "Melodramatic",
+    "definition": "adj. extravagant or exaggerated (as of a melodrama)",
+    "usecase": "The melodramatic play was well liked by the audience.",
+    "id": 182
+  },
+  {
+    "word": "Modest",
+    "definition": "adj. simple and humble",
+    "usecase": "They moved into a modest house in the countryside.",
+    "id": 183
+  },
+  {
+    "word": "",
+    "definition": "adj. small in size or amount",
+    "usecase": "I received a modest sum of money for my help at the company event.",
+    "id": 184
+  },
+  {
+    "word": "Modify",
+    "definition": "v. to change, alter, or tweak",
+    "usecase": "Dr. Nguyen modified the gene so that it wouldn’t carry the disease.",
+    "id": 185
+  },
+  {
+    "word": "Momentous",
+    "definition": "adj. historically significant",
+    "usecase": "Her win in the election was momentous.",
+    "id": 186
+  },
+  {
+    "word": "Novel",
+    "definition": "adj. new, innovative",
+    "usecase": "We are looking for novel ways to approach the project.",
+    "id": 187
+  },
+  {
+    "word": "Nuance",
+    "definition": "n. a subtle difference in meaning",
+    "usecase": "Body-language experts even understand the nuances of facial expressions.",
+    "id": 188
+  },
+  {
+    "word": "Null",
+    "definition": "adj. legally void and ineffective",
+    "usecase": "The government declared their marriage null.",
+    "id": 189
+  },
+  {
+    "word": "Objectivity",
+    "definition": "n. judgment based on observations instead of emotions or opinions",
+    "usecase": "In scientific research, objectivity is of utmost importance.",
+    "id": 190
+  },
+  {
+    "word": "Obsolete",
+    "definition": "adj. no longer used; rare or uncommon",
+    "usecase": "Historians assumed record players would be obsolete by now, but in fact they’re making a huge comeback.",
+    "id": 191
+  },
+  {
+    "word": "Omnipotent",
+    "definition": "adj. almighty and all powerful",
+    "usecase": "Gods are omnipotent beings who can control human destiny.",
+    "id": 192
+  },
+  {
+    "word": "Onset",
+    "definition": "n. the beginning or early stages",
+    "usecase": "At the onset of her career as a lawyer, things were looking up.",
+    "id": 193
+  },
+  {
+    "word": "Opine",
+    "definition": "v. to openly express an opinion",
+    "usecase": "The new employee opined at the company meeting.",
+    "id": 194
+  },
+  {
+    "word": "Ornate",
+    "definition": "adj. highly detailed and decorated",
+    "usecase": "That ornate silverware must be worth thousands of dollars!",
+    "id": 195
+  },
+  {
+    "word": "Oust",
+    "definition": "v. to remove or force out of (usu. a position or office)",
+    "usecase": "Sick and tired of putting up with his bad moods, the pirates ousted their captain.",
+    "id": 196
+  },
+  {
+    "word": "Paramount",
+    "definition": "adj. predominant, superior, most important",
+    "usecase": "Our paramount concern is the safety of our employees.",
+    "id": 197
+  },
+  {
+    "word": "Peculiar",
+    "definition": "adj. strange, bizarre",
+    "usecase": "Upon entering the abandoned house, Kate experienced a peculiar feeling, as if someone was watching her.",
+    "id": 198
+  },
+  {
+    "word": "Perish",
+    "definition": "v. to die; to pass away",
+    "usecase": "According to the news, nobody perished in the fire.",
+    "id": 199
+  },
+  {
+    "word": "Persecute",
+    "definition": "v. to cause suffering to",
+    "usecase": "They will persecute anyone who doesn’t agree with their views of the world.",
+    "id": 200
+  },
+  {
+    "word": "Petulant",
+    "definition": "adj. cranky, pouty, irritable",
+    "usecase": "Petulant children are especially difficult to care for.",
+    "id": 201
+  },
+  {
+    "word": "Pinnacle",
+    "definition": "n. highest level or degree",
+    "usecase": "Many believe that composers such as Beethoven and Mozart represent the pinnacle of classical music.",
+    "id": 202
+  },
+  {
+    "word": "Pitiable",
+    "definition": "adj. deserving pity",
+    "usecase": "The frail-looking dog was pitiable, so I gave it some food and took it inside to care for it.",
+    "id": 203
+  },
+  {
+    "word": "Plausible",
+    "definition": "adj. reasonable and possibly true",
+    "usecase": "Her story is plausible, but that doesn’t mean she’s telling the truth.",
+    "id": 204
+  },
+  {
+    "word": "Postulate",
+    "definition": "v. to assert",
+    "usecase": "The literary critic postulates that romanticism and naturalism are actually interconnected.",
+    "id": 205
+  },
+  {
+    "word": "Potent",
+    "definition": "adj. having great influence",
+    "usecase": "The bald eagle is a potent symbol of the US.",
+    "id": 206
+  },
+  {
+    "word": "",
+    "definition": "adj. having a strong, chemical effect",
+    "usecase": "The potion was definitely potent—it healed my wounds immediately!",
+    "id": 207
+  },
+  {
+    "word": "Pragmatic",
+    "definition": "adj. practical, useful",
+    "usecase": "It’s not necessarily more pragmatic to study engineering than it is to study philosophy.",
+    "id": 208
+  },
+  {
+    "word": "Precedent",
+    "definition": "n. an example or subject from earlier in time",
+    "usecase": "This change in law is without historical precedent.",
+    "id": 209
+  },
+  {
+    "word": "Predecessor",
+    "definition": "n.  someone who comes before you (usu. in position or office)",
+    "usecase": "My predecessor gave me many tips for running the office.",
+    "id": 210
+  },
+  {
+    "word": "Prescribe",
+    "definition": "v. to command orders",
+    "usecase": "The directions for our essay prescribe a length of at least ten pages.",
+    "id": 211
+  },
+  {
+    "word": "",
+    "definition": "v. to issue authorization for medications",
+    "usecase": "A doctor must prescribe you this medication before you can begin taking it.",
+    "id": 212
+  },
+  {
+    "word": "Principle",
+    "definition": "n. basic truth, assumption, or rule",
+    "usecase": "Remember the universal principle: treat others as you want them to treat you.",
+    "id": 213
+  },
+  {
+    "word": "Prohibit",
+    "definition": "v. to command against, to outlaw",
+    "usecase": "Alcohol was prohibited in the US in the 1920s.",
+    "id": 214
+  },
+  {
+    "word": "Prompt",
+    "definition": "adj. punctual, on time",
+    "usecase": "She is always prompt when it comes to turning in her homework.",
+    "id": 215
+  },
+  {
+    "word": "",
+    "definition": "n. a cue to begin something; instructions",
+    "usecase": "I had to write an essay based on a prompt.",
+    "id": 216
+  },
+  {
+    "word": "",
+    "definition": "v. to incite, propel, or cause to act",
+    "usecase": "The possibility of a scholarship prompted him to apply to Harvard.",
+    "id": 217
+  },
+  {
+    "word": "Promulgate",
+    "definition": "v. to put into law or formally declare",
+    "usecase": "The ruler will at last promulgate an amnesty with the neighboring countries.",
+    "id": 218
+  },
+  {
+    "word": "Prosecute",
+    "definition": "v. to bring criminal action against someone (in a trial)",
+    "usecase": "The suspect was prosecuted yesterday.",
+    "id": 219
+  },
+  {
+    "word": "Provocative",
+    "definition": "adj. intending to provoke, inspire, or arouse",
+    "usecase": "Her nude paintings are considered quite provocative.",
+    "id": 220
+  },
+  {
+    "word": "Qualitative",
+    "definition": "adj. involving qualities of something (features and content)",
+    "usecase": "I noticed a qualitative change in her paintings.",
+    "id": 221
+  },
+  {
+    "word": "Quantitative",
+    "definition": "adj. involving quantities (numbers and amounts)",
+    "usecase": "We must conduct a quantitative analysis.",
+    "id": 222
+  },
+  {
+    "word": "Quirk",
+    "definition": "n. a strange habit",
+    "usecase": "His biggest quirk is his love of old marbles.",
+    "id": 223
+  },
+  {
+    "word": "Ramify",
+    "definition": "v. to split into two or more branches",
+    "usecase": "Cars ramified throughout the world in the twentieth century.",
+    "id": 224
+  },
+  {
+    "word": "Rash",
+    "definition": "adj. without attention to danger or risk",
+    "usecase": "Her rash decision to pass the car nearly resulted in a crash.",
+    "id": 225
+  },
+  {
+    "word": "Raw",
+    "definition": "adj. unrefined",
+    "usecase": "He’s got raw talent as a singer, but he needs to work on his performance skills.",
+    "id": 226
+  },
+  {
+    "word": "",
+    "definition": "adj. not processed; uncooked (as in food)",
+    "usecase": "In some countries, such as Japan, it is normal to eat raw fish.",
+    "id": 227
+  },
+  {
+    "word": "Readily",
+    "definition": "adv. right away and without difficulty",
+    "usecase": "Water was readily available at different points in the race.",
+    "id": 228
+  },
+  {
+    "word": "Reconsideration",
+    "definition": "n. thinking again about a previously made choice",
+    "usecase": "The judges’ reconsideration of her performance resulted in her victory.",
+    "id": 229
+  },
+  {
+    "word": "Reform",
+    "definition": "n. a change for the better; improvement",
+    "usecase": "The reform made it so that only those 18 and older can legally drive.",
+    "id": 230
+  },
+  {
+    "word": "",
+    "definition": "v. to improve via change",
+    "usecase": "The government reformed its vague policies on marijuana use.",
+    "id": 231
+  },
+  {
+    "word": "Refute",
+    "definition": "v. to prove to be untrue, unfounded, or incorrect",
+    "usecase": "The student refuted the professor’s claim in class.",
+    "id": 232
+  },
+  {
+    "word": "Reinforce",
+    "definition": "v. to strengthen or add support to",
+    "usecase": "We can use these pipes to reinforce the structure.",
+    "id": 233
+  },
+  {
+    "word": "Reluctantly",
+    "definition": "adv. somewhat unwillingly",
+    "usecase": "Max reluctantly agreed to see the horror movie with his friends.",
+    "id": 234
+  },
+  {
+    "word": "Renounce",
+    "definition": "v. to give up (usu. power or a position)",
+    "usecase": "Our CEO renounced her position yesterday.",
+    "id": 235
+  },
+  {
+    "word": "",
+    "definition": "v. to cast off",
+    "usecase": "He renounced his friend after he caught her stealing money from him.",
+    "id": 236
+  },
+  {
+    "word": "Reproach",
+    "definition": "v. to criticize",
+    "usecase": "The mother reproached her daughter’s school for making students come in during a blizzard.",
+    "id": 237
+  },
+  {
+    "word": "Repudiate",
+    "definition": "v. to refuse to recognize as true",
+    "usecase": "The father repudiated his son’s marriage.",
+    "id": 238
+  },
+  {
+    "word": "",
+    "definition": "v. to cast off",
+    "usecase": "She repudiated her son once she found out he’d married someone without telling her.",
+    "id": 239
+  },
+  {
+    "word": "Retention",
+    "definition": "n. the act of keeping something",
+    "usecase": "Water retention can make you weigh more on certain days.",
+    "id": 240
+  },
+  {
+    "word": "Satiated",
+    "definition": "adj. satisfied (usu. in hunger)",
+    "usecase": "I felt satiated after eating a snack.",
+    "id": 241
+  },
+  {
+    "word": "Savvy",
+    "definition": "adj. having practical intelligence or knowledge",
+    "usecase": "My brother is not very savvy when it comes to using public transportation.",
+    "id": 242
+  },
+  {
+    "word": "Scandalous",
+    "definition": "adj. morally offensive, often causing damage to one’s reputation",
+    "usecase": "The scandalous politician decided it was best to resign from office.",
+    "id": 243
+  },
+  {
+    "word": "Scorn",
+    "definition": "v. to look down on with disdain",
+    "usecase": "It’s difficult for me not to scorn those who use improper grammar.",
+    "id": 244
+  },
+  {
+    "word": "Scrupulous",
+    "definition": "adj. paying great attention to detail",
+    "usecase": "I am a scrupulous proofreader and never miss an error.",
+    "id": 245
+  },
+  {
+    "word": "Scrutinize",
+    "definition": "v. to examine carefully and critically",
+    "usecase": "The teacher scrutinized her students’ essays.",
+    "id": 246
+  },
+  {
+    "word": "Secrete",
+    "definition": "v. to produce or release (a substance)",
+    "usecase": "Trees secrete a sticky substance called sap.",
+    "id": 247
+  },
+  {
+    "word": "Sentiment",
+    "definition": "n. opinion",
+    "usecase": "I am of the sentiment that you should never give out your passwords to anyone.",
+    "id": 248
+  },
+  {
+    "word": "",
+    "definition": "n. a tender or moving gesture",
+    "usecase": "Even though I’m not a big fan of porcelain dolls, I appreciated the sentiment.",
+    "id": 249
+  },
+  {
+    "word": "Sheer",
+    "definition": "adj. so thin that light can shine through",
+    "usecase": "The curtains on the window were so sheer you could clearly see inside the house.",
+    "id": 250
+  },
+  {
+    "word": "Simple",
+    "definition": "adj. easy; not complex",
+    "usecase": "This math problem is so simple even a first grader can solve it.",
+    "id": 251
+  },
+  {
+    "word": "",
+    "definition": "adj. undecorated",
+    "usecase": "The simple beauty of the ocean is what makes it memorable.",
+    "id": 252
+  },
+  {
+    "word": "Sinister",
+    "definition": "adj. ominous, evil",
+    "usecase": "Medieval peasants believed sinister demons could harm humans.",
+    "id": 253
+  },
+  {
+    "word": "Solidarity",
+    "definition": "n. the joining of commonalities or common purposes among a group",
+    "usecase": "I stood in solidarity with other female students by refusing to wear the school’s sexist uniform.",
+    "id": 254
+  },
+  {
+    "word": "Sparingly",
+    "definition": "adv. insufficiently, meagerly, or in a restricted manner",
+    "usecase": "Due to my condition, I must eat salt sparingly.",
+    "id": 255
+  },
+  {
+    "word": "Spawn",
+    "definition": "v. to release eggs",
+    "usecase": "Frogs typically spawn in ponds.",
+    "id": 256
+  },
+  {
+    "word": "",
+    "definition": "v. to call forth or generate",
+    "usecase": "The topic spawned an ongoing debate among his family members.",
+    "id": 257
+  },
+  {
+    "word": "Spur",
+    "definition": "v. to stimulate or incite",
+    "usecase": "Her bravery spurred others to act.",
+    "id": 258
+  },
+  {
+    "word": "Squalid",
+    "definition": "adj. run-down, sordid, or sleazy",
+    "usecase": "The squalid cabin needed a new roof and an exterminator.",
+    "id": 259
+  },
+  {
+    "word": "Stark",
+    "definition": "adj. very plain; devoid of any details or features",
+    "usecase": "Looking out at the stark landscape, I felt a keen sense of isolation.",
+    "id": 260
+  },
+  {
+    "word": "Static",
+    "definition": "adj. motionless",
+    "usecase": "The ball is static.",
+    "id": 261
+  },
+  {
+    "word": "",
+    "definition": "adj. changeless",
+    "usecase": "Her life has been static for the past three years.",
+    "id": 262
+  },
+  {
+    "word": "Subordinate",
+    "definition": "adj. lower in rank",
+    "usecase": "The subordinate officers work every day.",
+    "id": 263
+  },
+  {
+    "word": "",
+    "definition": "n. someone lower in rank",
+    "usecase": "My subordinate will check you in.",
+    "id": 264
+  },
+  {
+    "word": "",
+    "definition": "v. to make dependent on or put at a lower rank",
+    "usecase": "You aren’t my boss—you can’t subordinate me to the role of receptionist!",
+    "id": 265
+  },
+  {
+    "word": "Subsequently",
+    "definition": "adv. happening later or after something",
+    "usecase": "I subsequently went home.",
+    "id": 266
+  },
+  {
+    "word": "Substantial",
+    "definition": "adj. very large in amount or degree",
+    "usecase": "I was shocked to find a substantial amount of money beneath the park bench.",
+    "id": 267
+  },
+  {
+    "word": "Substantiate",
+    "definition": "v. to strengthen with new evidence or facts",
+    "usecase": "It is important for scientists to substantiate their theories whenever possible.",
+    "id": 268
+  },
+  {
+    "word": "Subtle",
+    "definition": "adj. hard to detect or analyze",
+    "usecase": "I detected in her expression a subtle hint of irritation.",
+    "id": 269
+  },
+  {
+    "word": "Sufficient",
+    "definition": "adj. enough; just meeting a requirement",
+    "usecase": "These boxes should be sufficient for our move.",
+    "id": 270
+  },
+  {
+    "word": "Surly",
+    "definition": "adj. unfriendly; inclined to anger",
+    "usecase": "The bartender was a surly fellow who wasn’t afraid to start a fight.",
+    "id": 271
+  },
+  {
+    "word": "Surmount",
+    "definition": "v. to get on top of or overcome",
+    "usecase": "They managed to surmount the language barrier by using a translation app.",
+    "id": 272
+  },
+  {
+    "word": "Susceptible",
+    "definition": "adj. to be vulnerable (to something)",
+    "usecase": "Children are more susceptible to certain illnesses than adults are.",
+    "id": 273
+  },
+  {
+    "word": "Tactful",
+    "definition": "adj. skilled at dealing with people",
+    "usecase": "Her tactful attitude toward our class made her one of my favorite teachers.",
+    "id": 274
+  },
+  {
+    "word": "Taut",
+    "definition": "adj. pulled tight",
+    "usecase": "The rubberband was taut and ready to be fired.",
+    "id": 275
+  },
+  {
+    "word": "Teeming",
+    "definition": "adj. abundantly filled (usu. with living organisms)",
+    "usecase": "Doorknobs are not as clean as they look and are often teeming with germs.",
+    "id": 276
+  },
+  {
+    "word": "Temperament",
+    "definition": "n. usual mood or feelings",
+    "usecase": "She had a hostile temperament, making her intimidating to most people.",
+    "id": 277
+  },
+  {
+    "word": "Tentative",
+    "definition": "adj. not yet finalized",
+    "usecase": "We haven’t made any official arrangements yet, but the tentative location for our wedding is Hawaii.",
+    "id": 278
+  },
+  {
+    "word": "Transparent",
+    "definition": "adj. see-through; so thin that light can shine through",
+    "usecase": "Stained window glass isn’t as transparent as regular window glass is.",
+    "id": 279
+  },
+  {
+    "word": "",
+    "definition": "adj. truthful or easy to perceive",
+    "usecase": "She was transparent about her plans to end her marriage.",
+    "id": 280
+  },
+  {
+    "word": "Treacherous",
+    "definition": "adj. dangerous and unstable",
+    "usecase": "The journey was becoming treacherous, but they continued on regardless.",
+    "id": 281
+  },
+  {
+    "word": "Tremendous",
+    "definition": "adj. very large, good, or bad in degree or size",
+    "usecase": "Tremendous news! You don’t have to repay your loans!",
+    "id": 282
+  },
+  {
+    "word": "Ubiquitous",
+    "definition": "adj. being everywhere at once",
+    "usecase": "Cell phones are ubiquitous these days.",
+    "id": 283
+  },
+  {
+    "word": "Unadorned",
+    "definition": "adj. undecorated, plain",
+    "usecase": "Though the dress was cheap and unadorned, it was by far her favorite one on the rack.",
+    "id": 284
+  },
+  {
+    "word": "Undermine",
+    "definition": "v. to weaken or subvert (usu. gradually or secretly)",
+    "usecase": "Parents should take care not to constantly undermine their children.",
+    "id": 285
+  },
+  {
+    "word": "Underscore",
+    "definition": "v. to emphasize or give additional weight to",
+    "usecase": "This sentence seems to underscore the overall meaning of the passage.",
+    "id": 286
+  },
+  {
+    "word": "Undulate",
+    "definition": "v. to move as ripples or in a wavy pattern",
+    "usecase": "Belly dancers are known for their ability to skillfully undulate their stomachs.",
+    "id": 287
+  },
+  {
+    "word": "Unilateral",
+    "definition": "adj. one-sided",
+    "usecase": "The unilateral decision was deemed unfair by the other party involved.",
+    "id": 288
+  },
+  {
+    "word": "Unjust",
+    "definition": "adj. unfair; not justified",
+    "usecase": "The court’s decision is unjust—he should not go free.",
+    "id": 289
+  },
+  {
+    "word": "Unmitigated",
+    "definition": "adj. downright, utter, total",
+    "usecase": "My speech was an unmitigated disaster!",
+    "id": 290
+  },
+  {
+    "word": "Unprecedented",
+    "definition": "adj. completely new and never having happened before; historic",
+    "usecase": "The number of protestors was unprecedented.",
+    "id": 291
+  },
+  {
+    "word": "Unveil",
+    "definition": "v. to make visible; to reveal",
+    "usecase": "We plan to unveil our plans for the new company project on Sunday.",
+    "id": 292
+  },
+  {
+    "word": "Urge",
+    "definition": "n. desire or impulse",
+    "usecase": "He had the urge to tell his parents about his acceptance to Columbia but decided against it.",
+    "id": 293
+  },
+  {
+    "word": "",
+    "definition": "v. to encourage or persuade",
+    "usecase": "She urged her sister to apply to Stanford.",
+    "id": 294
+  },
+  {
+    "word": "Validate",
+    "definition": "v. to prove or declare valid",
+    "usecase": "Your selfish actions do not validate your feelings for me.",
+    "id": 295
+  },
+  {
+    "word": "Viability",
+    "definition": "n. ability to be done in a practical or useful way",
+    "usecase": "The viability of the solution is questionable.",
+    "id": 296
+  },
+  {
+    "word": "Vital",
+    "definition": "adj. urgently necessary",
+    "usecase": "It is vital that you respond by the deadline.",
+    "id": 297
+  },
+  {
+    "word": "Vow",
+    "definition": "v. to promise",
+    "usecase": "My brother quickly broke his vow to never eat chocolate again.",
+    "id": 298
+  },
+  {
+    "word": "Warrant",
+    "definition": "v. to prove to be reasonable",
+    "usecase": "Wanting to look cool in front of your friends doesn’t warrant breaking the law.",
+    "id": 299
+  },
+  {
+    "word": "Yield",
+    "definition": "n. production of an amount",
+    "usecase": "The farmer’s annual pumpkin yield exceeded 10,000.",
+    "id": 300
+  },
+  {
+    "word": "",
+    "definition": "v. to give way to or surrender to",
+    "usecase": "Cars turning right on red must yield to oncoming traffic.",
+    "id": 301
+  },
+  {
+    "word": "",
+    "definition": "v. to produce or supply",
+    "usecase": "Our experiment yielded many unique-looking vegetables.",
+    "id": 302
+  }
+]
